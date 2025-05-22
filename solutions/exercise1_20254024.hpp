@@ -3,7 +3,12 @@
 
 #include <Eigen/Core>
 #include <Eigen/Geometry>
-#include <dyn.hpp>
+#include <dyn/algorithms/update.hpp>
+#include <dyn/parse.hpp>
+#include <dyn/structs.hpp>
+#include <dyn/algorithms/update.hpp>
+#include <dyn/parse.hpp>
+#include <dyn/structs.hpp>
 #include <filesystem>
 #include <sys/types.h>
 #include <tinyxml_rai/tinystr.h>
